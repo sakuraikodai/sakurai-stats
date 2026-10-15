@@ -43,9 +43,9 @@ poetry run pytest
 
 ## 参考資料
 
-- [尾山ゼミ 2026「10/5の課題」](https://github.com/OyamaZemi/2026/issues/31) — 課題の指示
-- [尾山ゼミ 2026 Issue #30](https://github.com/OyamaZemi/2026/issues/30) — ライブラリ作成のDEMOに関する資料
-- [尾山ゼミ Settingup「Python（Poetryを使う方法）」](https://github.com/OyamaZemi/Settingup/blob/master/docs/python-poetry.md) — Poetryによる開発環境の構築
+- [尾山ゼミ 2026「10/5の課題」](https://github.com/OyamaZemi/2026/issues/31)
+- [尾山ゼミ 2026 Issue #30](https://github.com/OyamaZemi/2026/issues/30) 
+- [尾山ゼミ Settingup「Python（Poetryを使う方法）」](https://github.com/OyamaZemi/Settingup/blob/master/docs/python-poetry.md)
 
 ## AI利用
 
