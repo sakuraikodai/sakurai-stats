@@ -1,12 +1,12 @@
 [project]
 name = "sakurai-stats"
 version = "0.1.0"
-description = ""
+description = "数値のリストの算術平均を計算するPythonライブラリ"
 authors = [
     {name = "Sakurai Kodai"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
 ]
 
