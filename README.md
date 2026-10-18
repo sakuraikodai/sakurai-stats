@@ -49,4 +49,4 @@ poetry run pytest
 
 ## AI利用
 
-ライブラリの実装、テストコードおよびREADMEの作成にChatGPTを使用しました。公開前の確認と設定の修正（対応Pythonの変更、`.gitignore` の追加など）にはClaudeを使用しました。
+ライブラリの実装、テストコードおよびREADMEの作成にChatGPTとClaudeを使用しました。
